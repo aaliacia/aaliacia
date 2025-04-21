@@ -1,6 +1,9 @@
 ## Hi there 👋
-<p align="left">My name is ... and I'm a ..., from ....</p>
 <br>
+<img align="right" alt"Snorlax" src="https://i.gifer.com/XOsa.gif" height="100">
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+<br> 
 
   ##
  
