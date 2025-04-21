@@ -1,8 +1,7 @@
 ## Hi there 👋
 <br>
 <img align="right" alt"Snorlax" src="https://i.gifer.com/XOsa.gif" height="100">
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
+<p align="left">Atualmente, estudante de Análise e Desenvolvimento de Sistemas na UniFECAF e atuando como Analista de Suporte. São destaques a proatividade, a busca por inovação e a comunicação, buscando sempre um bom desenvolvimento
 <br> 
 
   ##
